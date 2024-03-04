@@ -1,2 +1,6 @@
 just practice the merge conflicts
+<<<<<<< HEAD
 # now given by main for practice merge conflicts
+=======
+now given a oneline in sasi branch for merge conflicts
+>>>>>>> sasi
