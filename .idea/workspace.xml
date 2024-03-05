@@ -49,20 +49,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial_using_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find largest element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_2ndLargest_element.executor&quot;: &quot;Run&quot;,
-    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;david&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AKASH.S/Desktop/git tutorial/git-practice&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.anagram.executor": "Run",
+    "Python.factorial.executor": "Run",
+    "Python.factorial_using_recursion.executor": "Run",
+    "Python.find largest element.executor": "Run",
+    "Python.find_2ndLargest_element.executor": "Run",
+    "Python.palindrome.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/AKASH.S/Desktop/git tutorial/git-practice"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\AKASH.S\Desktop\git tutorial\git-practice" />
